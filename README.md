@@ -1,6 +1,6 @@
 # Preloaded ROMs
 
-This repository hosts a curated collection of free, homebrew, and open-source retro games preloaded for the Minime OS (utilizing MinUI and RetroArch cores).
+This repository hosts a curated collection of free, homebrew, and open-source retro games preloaded for the Minime OS.
 
 ## Structure
 
